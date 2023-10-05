@@ -34,6 +34,8 @@
     "@aws-cdk/aws-sns": "^1.135.0",
     "@aws-cdk/aws-sns-subscriptions": "^1.135.0",
     "@aws-cdk/core": "^1.135.0",
+    "cd": "^0.3.3",
+    "inboundmessagehandler": "file:src/lambda/inboundMessageHandler",
     "source-map-support": "^0.5.16"
   }
 }

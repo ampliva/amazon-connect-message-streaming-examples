@@ -5,7 +5,7 @@ const https = require('https');
 const AWS = require('aws-sdk');
 const { log } = require('common-util');
 
-const PATH = '/v15.0';
+const PATH = '/v18.0';
 let accessToken = undefined;
 let phoneNoId = undefined;
 
